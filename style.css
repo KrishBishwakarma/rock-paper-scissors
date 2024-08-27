@@ -1,0 +1,33 @@
+.btnDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.cbtn {
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    font-size: xx-large;
+    border: solid skyblue;
+   
+}
+.btn {
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    font-size: xx-large;
+   
+}
+.cbtn:hover{
+
+    background-color: red;;
+    border-color: blue;
+}
+#infoDiv{
+   text-align: center;
+}
+body{
+    background-color: black;
+    color: white;
+}
